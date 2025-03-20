@@ -59,7 +59,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-src="[https://img.icons8.com/color/512/c-sharp-logo.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)" />
+src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
+
+              
         
 
 <br/>
