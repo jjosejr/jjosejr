@@ -52,7 +52,15 @@ Olá, sou José Júnior, estudante de Análise e Desenvolvimento de Sistemas na 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
+
+<img 
+    align="left" 
+    alt="c#" 
+    title="c#"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg](https://img.icons8.com/color/512/c-sharp-logo.png)" />
+        
 
 <br/>
 <br/>
