@@ -30,7 +30,7 @@ Olá, sou José Júnior, estudante de Análise e Desenvolvimento de Sistemas na 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="25px" 
+    width="28px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
             
@@ -39,7 +39,7 @@ Olá, sou José Júnior, estudante de Análise e Desenvolvimento de Sistemas na 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="28px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
@@ -49,7 +49,7 @@ Olá, sou José Júnior, estudante de Análise e Desenvolvimento de Sistemas na 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="28px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
@@ -57,7 +57,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
+    width="28px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
 
