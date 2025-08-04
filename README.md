@@ -61,7 +61,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
 
-              
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="28px" 
+    style="padding-right: 10px;" 
+    src="https://icon2.cleanpng.com/20180420/ggw/avtjis8a2.webp" /> 
+         
         
 
 <br/>
