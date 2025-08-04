@@ -26,6 +26,15 @@ Olá, sou José Júnior, estudante de Análise e Desenvolvimento de Sistemas na 
    ### 🤖 Linguagens e Tecnologias 
 
 
+   <img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+
 <img
     align="left" 
     alt="HTML"
@@ -59,17 +68,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     title="C"
     width="28px" 
     style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-         
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
         
 
 <br/>
