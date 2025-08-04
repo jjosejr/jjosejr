@@ -65,7 +65,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     align="left" 
     alt="Java" 
     title="Java"
-    width="28px" 
+    width="45px" 
     style="padding-right: 35px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
